@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Want to know learn more about me?
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently a senior majoring in Mathematics at UCLA, and hopefully, I could get in a Ph.d program in Applied mathematics in the future!. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bankcrub@g.ucla.edu](mailto:bankcrub@g.ucla.edu)
