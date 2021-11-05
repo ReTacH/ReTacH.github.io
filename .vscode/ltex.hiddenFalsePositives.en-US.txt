@@ -1,0 +1,1 @@
+{"rule":"CURRENCY","sentence":"^\\QOne way to connect this norm cut directly to linear algebra is to define a new vector \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q$ such that \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q$ and \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q$.\\E$"}
